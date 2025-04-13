@@ -1,6 +1,10 @@
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddControllers();
+builder.Services.AddControllers(options =>
+{
+    options.ReturnHttpNotAcceptable = true; // returns 406 for not supported file response request
+});
+// .AddXmlDataContractSerializerFormatters(); // supports XML
 
 builder.Services.AddProblemDetails(options =>
 {
@@ -20,9 +24,11 @@ if (app.Environment.IsDevelopment())
 
 app.UseRouting();
 
+#pragma warning disable ASP0014
 app.UseEndpoints(endpoints =>
 {
     endpoints.MapControllers();
 });
+#pragma warning restore ASP0014
 
 app.Run();
