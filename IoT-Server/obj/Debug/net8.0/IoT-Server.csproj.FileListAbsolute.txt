@@ -17,8 +17,6 @@
 /Users/phuongdoantuminh/Projects/IoT-Server/IoT-Server/obj/Debug/net8.0/IoT-Server.csproj.CoreCompileInputs.cache
 /Users/phuongdoantuminh/Projects/IoT-Server/IoT-Server/obj/Debug/net8.0/IoT-Server.MvcApplicationPartsAssemblyInfo.cs
 /Users/phuongdoantuminh/Projects/IoT-Server/IoT-Server/obj/Debug/net8.0/IoT-Server.MvcApplicationPartsAssemblyInfo.cache
-/Users/phuongdoantuminh/Projects/IoT-Server/IoT-Server/obj/Debug/net8.0/IoT-Server.RazorAssemblyInfo.cache
-/Users/phuongdoantuminh/Projects/IoT-Server/IoT-Server/obj/Debug/net8.0/IoT-Server.RazorAssemblyInfo.cs
 /Users/phuongdoantuminh/Projects/IoT-Server/IoT-Server/obj/Debug/net8.0/staticwebassets.build.json
 /Users/phuongdoantuminh/Projects/IoT-Server/IoT-Server/obj/Debug/net8.0/staticwebassets.development.json
 /Users/phuongdoantuminh/Projects/IoT-Server/IoT-Server/obj/Debug/net8.0/staticwebassets/msbuild.IoT-Server.Microsoft.AspNetCore.StaticWebAssets.props
@@ -26,12 +24,11 @@
 /Users/phuongdoantuminh/Projects/IoT-Server/IoT-Server/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.IoT-Server.props
 /Users/phuongdoantuminh/Projects/IoT-Server/IoT-Server/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.IoT-Server.props
 /Users/phuongdoantuminh/Projects/IoT-Server/IoT-Server/obj/Debug/net8.0/staticwebassets.pack.json
-/Users/phuongdoantuminh/Projects/IoT-Server/IoT-Server/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Users/phuongdoantuminh/Projects/IoT-Server/IoT-Server/obj/Debug/net8.0/scopedcss/bundle/IoT-Server.styles.css
-/Users/phuongdoantuminh/Projects/IoT-Server/IoT-Server/obj/Debug/net8.0/scopedcss/projectbundle/IoT-Server.bundle.scp.css
 /Users/phuongdoantuminh/Projects/IoT-Server/IoT-Server/obj/Debug/net8.0/IoT-Server.csproj.Up2Date
 /Users/phuongdoantuminh/Projects/IoT-Server/IoT-Server/obj/Debug/net8.0/IoT-Server.dll
 /Users/phuongdoantuminh/Projects/IoT-Server/IoT-Server/obj/Debug/net8.0/refint/IoT-Server.dll
 /Users/phuongdoantuminh/Projects/IoT-Server/IoT-Server/obj/Debug/net8.0/IoT-Server.pdb
 /Users/phuongdoantuminh/Projects/IoT-Server/IoT-Server/obj/Debug/net8.0/IoT-Server.genruntimeconfig.cache
 /Users/phuongdoantuminh/Projects/IoT-Server/IoT-Server/obj/Debug/net8.0/ref/IoT-Server.dll
+/Users/phuongdoantuminh/Projects/IoT-Server/IoT-Server/obj/Debug/net8.0/IoT-Server.sourcelink.json

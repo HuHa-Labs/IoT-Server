@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "/Users/phuongdoantuminh/Projects/IoT-Server/IoT-Server/obj/Debug/net8.0/scopedcss/projectbundle/IoT-Server.bundle.scp.css",
-      "PackagePath": "staticwebassets/IoT-Server.bundle.scp.css"
-    },
-    {
       "Id": "/Users/phuongdoantuminh/Projects/IoT-Server/IoT-Server/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
