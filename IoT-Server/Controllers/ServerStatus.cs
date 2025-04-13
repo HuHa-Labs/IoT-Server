@@ -6,8 +6,8 @@ namespace IoT_Server.Controllers;
 public class ServerStatus : ControllerBase
 {
     [HttpGet("api/")]
-    public ObjectResult GetApiStatus()
+    public ActionResult<string> GetApiStatus()
     {
-        return StatusCode(200, new { message = "OK" });
+        return Ok("OK");
     }
 }
