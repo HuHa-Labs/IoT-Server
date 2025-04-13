@@ -9,7 +9,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59a9cb18-44c4-4a36-9732-d90f6876ceb6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/IoT-Server/KafkaBackgroundService/KafkaService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.IoT-Server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IoT-Server/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/IoT-Server.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/IoT-Server.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IoT-Server/IoT-Server.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/IoT-Server/IoT-Server.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/IoT-Server/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/IoT-Server/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
