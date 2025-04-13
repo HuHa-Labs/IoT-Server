@@ -10,4 +10,10 @@ public class ServerStatus : ControllerBase
     {
         return Ok("OK");
     }
+
+    [HttpGet("api/dummyError")]
+    public ActionResult GetDummyError()
+    {
+        return BadRequest();
+    }
 }
