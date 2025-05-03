@@ -9,11 +9,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59a9cb18-44c4-4a36-9732-d90f6876ceb6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/IoT-Server/KafkaBackgroundService/KafkaService.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.IoT-Server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IoT-Server/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IoT-Server.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/IoT-Server.sln.DotSettings.user" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IoT-Server/IoT-Server.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/IoT-Server/IoT-Server.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IoT-Server/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/IoT-Server/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +36,9 @@
 }</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0a599c984977b1e5b565868561b8d5477effdeb985701bb593fde05588b6be/Environments.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/3965deb13a37647a5a8015a2a5b23a50f5db9329b3537cdbdf7566746e545bcf/BackgroundService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/4596937e5cd11b9433c55be62a16d4440de8693a937fdc3e41686d3ea6878/SwaggerGenServiceCollectionExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/595e4f2361fd31cb66c7e9303f46cf8f2fe77d96eea9d0e42c17cae783aa74/ServiceCollection.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/72ac1ff31103ca54db8db59a6719edbeac1eb89478b90faa54ee06cbdeaea6/MvcOptions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/8df799c833e9ec399ff460aed51dfad0573649753a1a286ce9e9673226e4728/SwaggerUIBuilderExtensions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/eeb2b9dd749e5cf9e6eb8ca91fdbb942ffa62db3764eecd24f89b4232e801f/HostEnvironmentEnvExtensions.cs" root0="FORCE_HIGHLIGHTING" />
@@ -119,8 +117,19 @@
       <updated>1744289972389</updated>
       <workItem from="1744289974966" duration="2758000" />
       <workItem from="1744379045894" duration="4952000" />
-      <workItem from="1744519900815" duration="3444000" />
+      <workItem from="1744519900815" duration="8348000" />
+      <workItem from="1744631576187" duration="112000" />
+      <workItem from="1746102731581" duration="473000" />
     </task>
+    <task id="LOCAL-00001" summary="init: add KafkaService class">
+      <option name="closed" value="true" />
+      <created>1744530441672</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744530441672</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,5 +139,7 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="init: add KafkaService class" />
+    <option name="LAST_COMMIT_MESSAGE" value="init: add KafkaService class" />
   </component>
 </project>

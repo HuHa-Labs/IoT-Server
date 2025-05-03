@@ -5,3 +5,12 @@ It serves two purposes:
 2. Processes data.
 3. Stores data into the SQL Server database.
 4. Exposes REST API for the front-end to grab the required data
+
+# Components
+## API
+`/api/latest-data/`
+
+The api to retrieve the latest data from the database.
+
+## Pull data from kafka Service
+Periodically pull data from the kafka
