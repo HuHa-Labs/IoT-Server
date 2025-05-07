@@ -10,6 +10,7 @@
   <component name="ChangeListManager">
     <list default="true" id="59a9cb18-44c4-4a36-9732-d90f6876ceb6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.IoT-Server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IoT-Server/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IoT-Server/KafkaBackgroundService/KafkaService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/IoT-Server/KafkaBackgroundService/KafkaService.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +44,9 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/8df799c833e9ec399ff460aed51dfad0573649753a1a286ce9e9673226e4728/SwaggerUIBuilderExtensions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/eeb2b9dd749e5cf9e6eb8ca91fdbb942ffa62db3764eecd24f89b4232e801f/HostEnvironmentEnvExtensions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/f0c16cda8a141e194c9151fd8f6acd0f93ef39e54a2a250baf2e5b2fa1fac6/WebApplication.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/phuongdoantuminh/Projects/IoT-Server/IoT-Server/KafkaBackgroundService/KafkaService.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/phuongdoantuminh/Projects/IoT-Server/IoT-Server/KafkaBackgroundService/KafkaService.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/phuongdoantuminh/Projects/IoT-Server/IoT-Server/KafkaBackgroundService/KafkaService.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
@@ -120,6 +124,8 @@
       <workItem from="1744519900815" duration="8348000" />
       <workItem from="1744631576187" duration="112000" />
       <workItem from="1746102731581" duration="473000" />
+      <workItem from="1746274322949" duration="225000" />
+      <workItem from="1746445112172" duration="3465000" />
     </task>
     <task id="LOCAL-00001" summary="init: add KafkaService class">
       <option name="closed" value="true" />
@@ -129,7 +135,39 @@
       <option name="project" value="LOCAL" />
       <updated>1744530441672</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init: KafkaHandlerStrategy.cs">
+      <option name="closed" value="true" />
+      <created>1746451522231</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746451522231</updated>
+    </task>
+    <task id="LOCAL-00003" summary="deps: add Confluent.Kafka">
+      <option name="closed" value="true" />
+      <created>1746451543785</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1746451543785</updated>
+    </task>
+    <task id="LOCAL-00004" summary="init: add KafkaConfigFactory.cs">
+      <option name="closed" value="true" />
+      <created>1746451600785</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1746451600785</updated>
+    </task>
+    <task id="LOCAL-00005" summary="init: add KafkaConsumer.cs">
+      <option name="closed" value="true" />
+      <created>1746451618847</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1746451618847</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,9 +175,24 @@
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="init: add KafkaService class" />
-    <option name="LAST_COMMIT_MESSAGE" value="init: add KafkaService class" />
+    <MESSAGE value="init: KafkaHandlerStrategy.cs" />
+    <MESSAGE value="deps: add Confluent.Kafka" />
+    <MESSAGE value="init: add KafkaConfigFactory.cs" />
+    <MESSAGE value="init: add KafkaConsumer.cs" />
+    <option name="LAST_COMMIT_MESSAGE" value="init: add KafkaConsumer.cs" />
   </component>
 </project>
